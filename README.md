@@ -12,20 +12,28 @@ Understanding Requirements:
 
 Reviewed the client's request and identified key metrics to be visualized based on the provided dataset.
 Defined essential KPIs, including calls answered/abandoned, average handle time, customer satisfaction, and agent performance.
+
+
 Data Preparation:
 
 Imported the provided dataset into Power BI.
 Cleaned and transformed the data using Power Query to ensure accuracy and consistency.
 Removed unnecessary columns and formatted data types to align with visualization needs.
+
+
 Data Modeling:
 
 Established relationships between tables in the dataset.
 Created calculated measures using DAX for metrics such as average speed of answer, call abandonment rate, and performance quadrants.
+
+
 Dashboard Design:
 
 Designed an intuitive layout with a focus on key insights.
 Incorporated visuals such as clustered bar charts, line graphs, cards, and a quadrant chart for agent performance analysis.
 Added slicers for dynamic filtering by time period, agent, and other dimensions.
+
+
 KPI Analysis:
 
 ![Screenshot 2024-11-15 163315](https://github.com/user-attachments/assets/8a54cb8d-bbfe-412f-b3eb-ad8916efff74)
