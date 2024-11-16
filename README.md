@@ -42,11 +42,11 @@ KPI Analysis:
 Highlighted trends in customer satisfaction and call handling efficiency over time.
 Visualized agent performance by comparing average talk time with calls answered.
 Provided clear metrics for management to address areas of improvement.
-Final Presentation:
 
 
 ![Screenshot 2024-11-16 121106](https://github.com/user-attachments/assets/2d417a66-e5cc-407b-9279-5b71b93c7cb8)
 
+Final Presentation:
 
 Delivered a polished dashboard showcasing actionable insights to support decision-making at the management level.
 
