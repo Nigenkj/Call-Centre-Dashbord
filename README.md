@@ -34,10 +34,10 @@ Incorporated visuals such as clustered bar charts, line graphs, cards, and a qua
 Added slicers for dynamic filtering by time period, agent, and other dimensions.
 
 
-KPI Analysis:
-
 ![Screenshot 2024-11-15 163315](https://github.com/user-attachments/assets/8a54cb8d-bbfe-412f-b3eb-ad8916efff74)
 
+
+KPI Analysis:
 
 Highlighted trends in customer satisfaction and call handling efficiency over time.
 Visualized agent performance by comparing average talk time with calls answered.
